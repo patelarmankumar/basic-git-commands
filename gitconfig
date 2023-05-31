@@ -1,0 +1,31 @@
+[user]
+	email = patelarmankumar@gmail.com
+	name = patelarmankumar
+
+
+
+# cp gitconfig /config/.gitconfig
+# cp gitconfig /home/jovyan/.gitconfig
+
+# chmod 700 id_rsa
+# cp id_rsa /config/.ssh/id_rsa
+# cp id_rsa /home/jovyan/.ssh/id_rsa
+
+"""
+git init
+
+git add .
+
+git add README.md
+
+git commit -m 'first commit'
+
+git branch -M main
+
+git remote remove origin
+
+git remote add origin url
+
+git push -u origin main
+
+"""

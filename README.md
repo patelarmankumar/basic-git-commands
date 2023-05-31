@@ -12,6 +12,6 @@ git branch -M main
 
 git remote remove origin
 
-git remote add origin git@github.com:patelarmankumar/git-commands.git
+git remote add origin url
 
 git push -u origin main
